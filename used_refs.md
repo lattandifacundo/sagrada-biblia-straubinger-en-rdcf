@@ -1,0 +1,76 @@
+# Referencias usadas a los Libros Sagrados
+**Para soportar los links internos en el formato, se requiere el uso de las referencias como se exponen a continuación:**
+
+- **genesis**
+- **exodo**
+- **levitico**
+- **numeros**
+- **deuteronomio**
+- **josue**
+- **jueces**
+- **rut**
+- **1_samuel** (_I Reyes_)
+- **2_samuel** (_II Reyes_)
+- **1_reyes** (_III Reyes_)
+- **2_reyes** (_IV Reyes_)
+- **1_cronicas** (_I Paralipómenos_)
+- **2_cronicas** (_II Paralipómenos_)
+- **esdras**
+- **nehemias**
+- **tobias**
+- **judit**
+- **ester**
+- **1_macabeos**
+- **2_macabeos**
+- **job**
+- **salmos**
+- **proverbios**
+- **eclesiastes** (_Cohélet_)
+- **cantar**
+- **sabiduria**
+- **eclesiastico** (_Ben Sirá_)
+- **isaias**
+- **jeremias**
+- **lamentaciones**
+- **baruc**
+- **ezequiel**
+- **daniel**
+- **oseas**
+- **joel**
+- **amos**
+- **abdias**
+- **jonas**
+- **miqueas**
+- **nahum**
+- **habacuc**
+- **sofonias**
+- **ageo**
+- **zacarias**
+- **malaquias**
+- **mateo**
+- **marcos**
+- **lucas**
+- **juan**
+- **hechos**
+- **romanos**
+- **1_corintios**
+- **2_corintios**
+- **galatas**
+- **efesios**
+- **filipenses**
+- **colosenses**
+- **1_tesalonicenses**
+- **2_tesalonicenses**
+- **1_timoteo**
+- **2_timoteo**
+- **tito**
+- **filemon**
+- **hebreos**
+- **santiago**
+- **pedro**
+- **2_pedro**
+- **1_juan**
+- **2_juan**
+- **3_juan**
+- **judas**
+- **apocalipsis**
